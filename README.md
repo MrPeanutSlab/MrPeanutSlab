@@ -4,10 +4,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MrPeanutSlab/MrPeanutSlab/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://discord.com/@itspeanutttt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -28,14 +24,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPeanutSlab/MrPeanutSlab/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPeanutSlab/MrPeanutSlab/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrPeanutSlab/MrPeanutSlab/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
