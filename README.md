@@ -33,6 +33,18 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/MrPeanutSlab">
+    <img src="./profile/stats.svg" alt="MrPeanutSlab GitHub stats" />
+  </a>
+  <br>
+  <a href="https://github.com/MrPeanutSlab">
+    <img src="./profile/streak.svg" alt="GitHub streak" />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
