@@ -50,5 +50,11 @@ jobs:
             exit 0
           fi
           git commit -m "chore(profile): update stats cards"
-          git pull --rebase origin HEAD
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            if git push; then
+              exit 0
+            fi
+            [ "$attempt" -lt 3 ] || exit 1
+            sleep 2
+          done
