@@ -1,94 +1,97 @@
-<br clear="both">
+<h1 align="center">Hey, I'm Peanut</h1>
 
-<h1 align="center">Hi 👋! My name is itsPeanutttt and I am 27, from New Zealand</h1>
+<p align="center">
+  27 · New Zealand · I run <a href="https://plvtc.com">Pean Logistics</a> and build the tools that keep it going
+</p>
 
-###
-
-<div align="center">
-  <a href="https://discord.com/@itspeanutttt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+<p align="center">
+  <a href="https://plvtc.com">
+    <img src="https://img.shields.io/badge/Website-plvtc.com-0D1117?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.facebook.com/itspeanutttt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  <a href="https://discord.gg/pean">
+    <img src="https://img.shields.io/badge/Discord-pean-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://ko-fi.com/peanlogistics" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="ko-fi logo"  />
+  <a href="https://www.youtube.com/@itsPeanutttt">
+    <img src="https://img.shields.io/badge/YouTube-itsPeanutttt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.youtube.com/@itsPeanutttt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <a href="https://twitch.tv/itspeanutttt">
+    <img src="https://img.shields.io/badge/Twitch-itspeanutttt-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://www.instagram.com/pean_logistics/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/pean_logistics/">
+    <img src="https://img.shields.io/badge/Instagram-pean__logistics-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv/itspeanutttt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+  <a href="https://www.facebook.com/itspeanutttt">
+    <img src="https://img.shields.io/badge/Facebook-itspeanutttt-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MrPeanutSlab/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/MrPeanutSlab">
-    <img src="./profile/stats.svg" alt="MrPeanutSlab GitHub stats" />
+  <a href="https://ko-fi.com/peanlogistics">
+    <img src="https://img.shields.io/badge/Ko--fi-peanlogistics-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
-  <br>
-  <a href="https://github.com/MrPeanutSlab">
-    <img src="./profile/streak.svg" alt="GitHub streak" />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="40" alt="packer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-</div>
+### Projects
 
-###
+**[Pean Logistics](https://plvtc.com)** is a [TruckersMP](https://truckersmp.com/vtc/64631) virtual trucking company. Most of my GitHub time goes into this stack.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://plvtc.com">Website</a></h3>
+      Public site, join flow, events, ranks, and gallery.<br />
+      <a href="https://plvtc.com">plvtc.com</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://drivers.plvtc.com">Drivers Hub</a></h3>
+      Driver portal for jobs, points, and company tools.<br />
+      <a href="https://drivers.plvtc.com">drivers.plvtc.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://truckersmp.com/vtc/64631">TruckersMP VTC</a></h3>
+      Pean Logistics on TruckersMP — convoy events and the public company page.<br />
+      <a href="https://truckersmp.com/vtc/64631">truckersmp.com/vtc/64631</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://discord.gg/pean">Discord</a></h3>
+      Community, applications, and the bot that runs ranks and tickets.<br />
+      <a href="https://discord.gg/pean">discord.gg/pean</a>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://plvtc.com"><img src="https://img.shields.io/badge/Join_us-plvtc.com-0D1117?style=flat-square" alt="Join Pean Logistics" /></a>
+  &nbsp;
+  <a href="https://status.plvtc.com"><img src="https://img.shields.io/badge/Status-status.plvtc.com-0D1117?style=flat-square" alt="Status" /></a>
+</p>
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
+  <br />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrPeanutSlab/MrPeanutSlab/output/snake.svg" alt="Snake eating the contribution grid" />
+</p>
