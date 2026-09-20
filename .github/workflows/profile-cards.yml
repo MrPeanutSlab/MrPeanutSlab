@@ -55,7 +55,7 @@ jobs:
               echo "Rebase failed; aborting push."
               exit 1
             fi
-            if git push; then
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
               exit 0
             fi
             [ "$attempt" -lt 3 ] || exit 1
