@@ -50,5 +50,9 @@ jobs:
             exit 0
           fi
           git commit -m "chore(profile): update stats cards"
-          git pull --rebase origin HEAD
-          git push
+          if ! git pull --rebase origin "${GITHUB_REF_NAME}"; then
+            git rebase --abort || true
+            echo "Rebase failed; aborting push."
+            exit 1
+          fi
+          git push origin "HEAD:${GITHUB_REF_NAME}"
